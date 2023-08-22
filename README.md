@@ -17,7 +17,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-<a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/azure-devops-1.svg" alt="Azure DevOps" width="40" height="40"/> </a>
+<a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/microsoft_azure/images/e584dc34-9cda-4cd3-b318-b6fe4909e4f8.svg" alt="Azure DevOps" width="40" height="40"/> </a>
 <a href="https://www.w3schools.in/c-tutorial/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
