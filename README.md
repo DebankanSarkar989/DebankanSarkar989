@@ -28,8 +28,8 @@
 <br/>
 
 ## What Am I Current Doing
- * I am currently 🔭 polishing my skills in Machine Learning and learning Networking side by side.
- * Getting Started with Big Data !!
+ *  I am currently 🔭 immersing myself in Azure DevOps principles and concurrently learning cloud networking.
+ * Taking my first steps into Azure's powerful capabilities and concepts!
 
 
 ## 📊 My Github Stats
