@@ -44,7 +44,7 @@
 </p>
 <br/>
 <br/>
-      ![Ashutosh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)(https://github.com/ashutosh00710/github-readme-activity-graph)
+     
 <br/>
 <br/>
 
@@ -60,5 +60,7 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DebankanSarkar989" alt="profile vist counter" /> </p>  
 <a href="https://github.com/DebankanSarkar989">
+
+ ![Ashutosh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)(https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
