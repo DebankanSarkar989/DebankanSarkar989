@@ -44,7 +44,7 @@
 </p>
 <br/>
 <br/>
-      <a href="https://github.com/DebankanSarkar989/github-readme-activity-graph"><img alt="Debankan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DebankanSarkar989&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+      [![Debankan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DebankanSarkar989&theme=react-dark)](https://github.com/DebankanSarkar989/github-readme-activity-graph)
 <br/>
 <br/>
 
