@@ -1,22 +1,23 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Debankan</h1>
-<h3 align="center">A Web Developer, Blogger and  Learner</h3>
+<h3 align="center">An Azure DevOps Learner and Cloud Enthusiast</h3>
 
 ## <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 <img width="35%" align="right" alt="Github" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
 
-- 🤔 &nbsp; Learning, exploring new technologies and quick hacks.
-- 🎓 &nbsp; Studying Computer Science Engineering at **Bengal       Institute of Technology, Kolkata.**
-- 🌱 &nbsp; Learning more about Artificial Intelligence , Machine Learning and Networking .
-- ✍️ &nbsp; Solving complex and challenging problems.
-- 📫 How to reach me **debankansarkar.kol@gmail.com**
+- 🤔 &nbsp; Exploring the vast realm of Azure DevOps and cloud technologies.
+- 🎓 &nbsp; Embarking on my cloud journey to master Azure DevOps .
+- 🌱 &nbsp; Delving into the world of cloud architecture, CI/CD pipelines, and collaborative DevOps practices.
+- ✍️ &nbsp; Eager to tackle intricate cloud challenges and contribute to efficient cloud solutions.
+- 📫 How to reach me **debankansarkarins@gmail.com**
 - ✍️ Blogger at  <a href="https://hashnode.com/@DebankanSarkar">HashNode</a>
 <br/><br/>
 
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
+<a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/azure-devops-1.svg" alt="Azure DevOps" width="40" height="40"/> </a>
 <a href="https://www.w3schools.in/c-tutorial/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
