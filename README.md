@@ -50,8 +50,7 @@
 
  ![Debankan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DebankanSarkar989&theme=react-dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DebankanSarkar989&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ## Connect with me: 
 <p align="left">
