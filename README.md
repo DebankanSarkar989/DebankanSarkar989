@@ -1,4 +1,4 @@
-
+-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Debankan</h1>
 <h3 align="center">An Azure DevOps Learner and Cloud Enthusiast</h3>
 
@@ -34,18 +34,18 @@
 
 ## 📊 My Github Stats
 <p>
-    <a href="https://github.com/DebankanSarkar12/github-readme-stats"><img alt="Debankan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DebankanSarkar12&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/DebankanSarkar12/github-readme-stats"><img alt="Debankan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebankanSarkar12&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/DebankanSarkar989/github-readme-stats"><img alt="Debankan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DebankanSarkar989&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/DebankanSarkar989/github-readme-stats"><img alt="Debankan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebankanSarkar989&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <p align="center">
-        <a href="https://github.com/DebankanSarkar12/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Debankan's streak" src="https://github-readme-streak-stats.herokuapp.com?user=DebankanSarkar12&theme=react&hide_border=true"/>
+        <a href="https://github.com/DebankanSarkar989/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Debankan's streak" src="https://github-readme-streak-stats.herokuapp.com?user=DebankanSarkar989&theme=react&hide_border=true"/>
     </a>
 </p>
 </p>
 <br/>
 <br/>
-      <a href="https://github.com/DebankanSarkar12/github-readme-activity-graph"><img alt="Debankan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DebankanSarkar12&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+      <a href="https://github.com/DebankanSarkar989/github-readme-activity-graph"><img alt="Debankan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DebankanSarkar989&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 <br/>
 
@@ -56,6 +56,6 @@
 <a href="https://kaggle.com/debankansarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="debankansarkar" height="30" width="40" /></a>
 <a href="https://hashnode.com/@DebankanSarkar" target="blank"><img align="center" src="https://api.iconify.design/logos/hashnode.svg" alt="debankansarkar" height="30" width="40" /></a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DebankanSarkar12" alt="profile vist counter" /> </p>  
-<a href="https://github.com/DebankanSarkar12">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DebankanSarkar989" alt="profile vist counter" /> </p>  
+<a href="https://github.com/DebankanSarkar989">
 
