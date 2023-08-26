@@ -6,7 +6,7 @@
 <img width="35%" align="right" alt="Github" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
 
 - 🤔 &nbsp; Exploring the vast realm of Azure DevOps and cloud technologies.
-- 🎓 &nbsp; Embarking on my cloud journey to master Azure DevOps .
+- 🎓 &nbsp; Embarking on my cloud journey to master Azure DevOps.
 - 🌱 &nbsp; Delving into the world of cloud architecture, CI/CD pipelines, and collaborative DevOps practices.
 - ✍️ &nbsp; Eager to tackle intricate cloud challenges and contribute to efficient cloud solutions.
 - 📫 How to reach me **debankansarkarins@gmail.com**
@@ -56,8 +56,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/i-m-debankan-sarkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debankan-sarkar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Debankansarkar_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Debankansarkar_1" height="30" width="40" /></a>
-<a href="https://kaggle.com/debankansarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="debankansarkar" height="30" width="40" /></a>
-<a href="https://hashnode.com/@DebankanSarkar" target="blank"><img align="center" src="https://api.iconify.design/logos/hashnode.svg" alt="debankansarkar" height="30" width="40" /></a>
+<a href="https://medium.com/@debankansarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@debankansarkar" height="30" width="40" /></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DebankanSarkar989" alt="profile vist counter" /> </p>  
 <a href="https://github.com/DebankanSarkar989">
