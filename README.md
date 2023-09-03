@@ -24,6 +24,8 @@
  *  I am currently 🔭 immersing myself in Azure DevOps principles and concurrently learning cloud networking.
  * Taking my first steps into Azure's powerful capabilities and concepts!
 
+## Blog 
+https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username='debankansarkar'
 
 ## 📊 My Github Stats
 <p>
