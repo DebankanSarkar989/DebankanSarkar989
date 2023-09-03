@@ -25,7 +25,8 @@
  * Taking my first steps into Azure's powerful capabilities and concepts!
 
 ## Blog 
-https://github-read-medium.vercel.app/latest?username=debankansarkar&limit=6
+![Pahlevikun's blog](https://github-read-medium.vercel.app/latest?username=pahlevikun&limit=6&theme=nord)
+
 
 ## 📊 My Github Stats
 <p>
