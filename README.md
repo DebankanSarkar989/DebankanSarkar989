@@ -31,8 +31,8 @@
 
 ## 📊 My Github Stats
 <p>
-    <a href="https://github.com/DebankanSarkar989/github-readme-stats"><img alt="Debankan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DebankanSarkar989&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/DebankanSarkar989/github-readme-stats"><img alt="Debankan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebankanSarkar989&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <img alt="Debankan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DebankanSarkar989&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+ <img alt="Debankan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebankanSarkar989&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   <br/>
   <p align="center">
         <a href="https://github.com/DebankanSarkar989/github-readme-streak-stats">
