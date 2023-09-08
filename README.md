@@ -28,7 +28,6 @@
 *  I share my technical expertise and insights by publishing articles on the Medium platform.
 ![Debankan's blog](https://github-read-medium.vercel.app/latest?username=debankansarkar&limit=4&theme=transparent)
 
-
 ## 📊 My Github Stats
 <p>
     <a href="https://github.com/DebankanSarkar989/github-readme-stats"><img alt="Debankan's Github Stats" 
